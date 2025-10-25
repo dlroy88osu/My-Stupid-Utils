@@ -31,7 +31,7 @@ Just some random utils I use... Nothing crazy but feel free to 'em.
         test()
     ```
   - Console out
-  - ![Output](./python/logger/logger_out.png)
+  ![Output](./python/logger/logger_out.png)
 
 - ### [Auto Sphinx](./python/auto_sphinx/auto_sphinx.py)
   - Routine that will auto gen sphinx for docs.
